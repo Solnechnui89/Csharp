@@ -14,13 +14,30 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-int num = Convert.ToInt32(Console.ReadLine());
-string numtext = Convert.ToString(num);
-if(numtext.Length>2)
+// int num = Convert.ToInt32(Console.ReadLine());
+// string numtext = Convert.ToString(num);
+// if(numtext.Length>2)
+// {
+//     Console.WriteLine("Третья цифра: " + numtext[2]);
+// }
+// else
+// {
+//     Console.WriteLine("Третьей цифры нет ");
+// }
+
+// Задача 15: Напишите программу, которая принимает на вход цифру, 
+// обозначающую день недели, и проверяет, является ли этот день выходным.
+// 6 -> да
+// 7 -> да
+// 1 -> нет
+
+int numberday = Convert.ToInt16(Console.ReadLine());
+Console.WriteLine("Введите число: ");
+if(numberday<=5)
 {
-    Console.WriteLine("Третья цифра: " + numtext[2]);
+    Console.WriteLine("это рабочий день ");
 }
 else
 {
-    Console.WriteLine("Третьей цифры нет ");
+    Console.WriteLine("это выходной день: ");
 }
