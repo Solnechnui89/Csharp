@@ -1,0 +1,15 @@
+C:\GB\C#\Csharp\ClassWork\Lection_3\bin\Debug\net6.0\Lection_3.exe
+C:\GB\C#\Csharp\ClassWork\Lection_3\bin\Debug\net6.0\Lection_3.deps.json
+C:\GB\C#\Csharp\ClassWork\Lection_3\bin\Debug\net6.0\Lection_3.runtimeconfig.json
+C:\GB\C#\Csharp\ClassWork\Lection_3\bin\Debug\net6.0\Lection_3.dll
+C:\GB\C#\Csharp\ClassWork\Lection_3\bin\Debug\net6.0\Lection_3.pdb
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.csproj.AssemblyReference.cache
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.AssemblyInfoInputs.cache
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.AssemblyInfo.cs
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.csproj.CoreCompileInputs.cache
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.dll
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\refint\Lection_3.dll
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.pdb
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\Lection_3.genruntimeconfig.cache
+C:\GB\C#\Csharp\ClassWork\Lection_3\obj\Debug\net6.0\ref\Lection_3.dll
