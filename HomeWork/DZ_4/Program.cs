@@ -8,11 +8,12 @@ Console.WriteLine("Введите первое число: ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите степень первого числа: ");
 int stepenNumber = Convert.ToInt32(Console.ReadLine());
-int count=Convert.ToInt16(Console.ReadLine());
-for (int i = 0; i < count; i++)
+int result=1;
+for(int i = 0; i < stepenNumber; i++)
 {
-    Console.WriteLine("Итого = " + Math.Pow(firstNumber, stepenNumber));
+   result=result*firstNumber;
 }
+Console.WriteLine($"{firstNumber}*{stepenNumber}→({result})");
 
 // Задача 27: 
 // Напишите программу, которая принимает на вход число 
