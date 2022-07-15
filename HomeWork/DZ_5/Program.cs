@@ -21,20 +21,20 @@
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
-int[] myArray = new int[4];
-for (int i = 0; i < myArray.Length; i++)
-{
-    Console.Write($"Введите число массива с индексом[{i}] = ");
-      myArray[i] = int.Parse(Console.ReadLine());
-}
-int SumOddElements = 0;
-for (int i = 0; i < myArray.Length; i++)
-{
-    if (i % 2 != 0)
+// int[] myArray = new int[4];
+// for (int i = 0; i < myArray.Length; i++)
+// {
+//     Console.Write($"Введите число массива с индексом[{i}] = ");
+//       myArray[i] = int.Parse(Console.ReadLine());
+// }
+// int SumOddElements = 0;
+// for (int i = 0; i < myArray.Length; i++)
+// {
+//     if (i % 2 != 0)
 
-        SumOddElements += myArray[i];
-}
-Console.WriteLine($"Сумма элементов, стоящих на нечетных позициях: {SumOddElements}");
+//         SumOddElements += myArray[i];
+// }
+// Console.WriteLine($"Сумма элементов, стоящих на нечетных позициях: {SumOddElements}");
 
 // Задача 38: 
 // Задайте массив вещественных чисел. 
