@@ -1,0 +1,15 @@
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.csproj.AssemblyReference.cache
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.AssemblyInfoInputs.cache
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.AssemblyInfo.cs
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.csproj.CoreCompileInputs.cache
+C:\GB\C#\Csharp\HomeWork\DZ_8\bin\Debug\net6.0\DZ_8.exe
+C:\GB\C#\Csharp\HomeWork\DZ_8\bin\Debug\net6.0\DZ_8.deps.json
+C:\GB\C#\Csharp\HomeWork\DZ_8\bin\Debug\net6.0\DZ_8.runtimeconfig.json
+C:\GB\C#\Csharp\HomeWork\DZ_8\bin\Debug\net6.0\DZ_8.dll
+C:\GB\C#\Csharp\HomeWork\DZ_8\bin\Debug\net6.0\DZ_8.pdb
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.dll
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\refint\DZ_8.dll
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.pdb
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\DZ_8.genruntimeconfig.cache
+C:\GB\C#\Csharp\HomeWork\DZ_8\obj\Debug\net6.0\ref\DZ_8.dll
